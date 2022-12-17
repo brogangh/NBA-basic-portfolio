@@ -1,4 +1,2 @@
-# NBA-final-portfolio
-final portfolio project for the basic data science course at codeacademy
-a basic exploration of the connection between team stats in the 2021-2022 NBA season and number of wins using python.
-Includes both basic graphical analysis and possibly a machine learning program that attempts to predict number of wins based on team stats. 
+THIS WAS AN OLD PROJECT THAT GOT MIXED UP WITH SOMETHING SIMILAR IM CURRENTLY WORKING ON, SO THIS IS KINDOF AN INCOHERENT MESS AT THE MOMENT. CHECK THIS LINK FOR THE CORRECT PROJECT: https://github.com/brogangh/NBA-regressions-project
+SORRY FOR ANY CONFUSION
